@@ -1,5 +1,3 @@
-# Bharatintern_task1
-
 <h1 align="center">
   <a href="# Content Management Tool"></a>
   Content Management Tool
